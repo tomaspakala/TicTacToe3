@@ -1,0 +1,11 @@
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.XML
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\FSharp.Core.dll
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\FSharp.Core.xml
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\FSharp.Data.dll
+C:\Users\Tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\FSharp.Data.pdb
+C:\Users\Tomas\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\FSharp.Data.xml
