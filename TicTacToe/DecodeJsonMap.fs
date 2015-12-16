@@ -32,4 +32,4 @@ module DecodeJsonMap =
     let decodeJson msg =
         match msg with
         | "" -> []
-        | _ ->  decode1 (preDecode msg, [])
+        | _ ->  decode1 (preDecode msg, []) 
